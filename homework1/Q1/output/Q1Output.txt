@@ -1,0 +1,6 @@
+Distribution   		Mean           		Medium         		Sample sd      
+Normal         		9.98721        		9.95241        		4.99278        
+Poisson        		5.0049         		5              		2.23691        
+ChiSquared     		5.01319        		4.38232        		3.16895        
+Gamma          		49.8788        		48.3033        		15.7761        
+Bernoulli      		0.5022         		1              		0.500016       
